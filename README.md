@@ -8,8 +8,10 @@
 
 [Brand Guidelines](https://github.com/CSD3SIGN/Weather-App/blob/master/Brand%20Guidelines.pdf)
 
-[Icons](https://csd3sign.tumblr.com/image/173685595258)
+[Icons](https://csd3sign.tumblr.com/post/173685595258/app-icons-here-are-my-icons-for-my-weather-app)
 
 ## Final Product
 
 [Keynote Prototype]()
+
+[Video Version](https://csd3sign.tumblr.com/post/173686538830/prototyping-just-a-short-video-of-my-app-working)
